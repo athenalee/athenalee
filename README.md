@@ -1,7 +1,7 @@
 ### 🤍 hi, i'm athena!
 <br>
 
-**🤖 cybersec x full stack x psych hons**
+**cybersec x full stack x psych hons**
 <br>
 
 <p align="left">
