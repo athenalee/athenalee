@@ -1,9 +1,8 @@
 ### 🤍 hi, i'm athena!
----
-**🤖 cybersec x full stack x psych hons**
 <br>
 
-**📧 contact**
+**🤖 cybersec x full stack x psych hons**
+<br>
 
 <p align="left">
   <a href="mailto:athenalee12345@gmail.com" target="_blank">
