@@ -1,8 +1,6 @@
 ### 🤍 hi, i'm athena!
 ---
 **🤖 cybersec x full stack x psych hons**
-- main focus: =
-- next up: =
 <br>
 
 **🛠️ the current stack**:
@@ -23,13 +21,6 @@
 </p>
 <br>
 
-**🔭 the current interests:**
-
-- =
-- =
-- =
-<br>
-
 **📧 contact**
 
 <p align="left">
@@ -39,7 +30,7 @@
   <a href="https://linkedin.com/in/athena-leee" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://athena-lee.super.site/" target="_blank">
+  <a href="https://athenalee.framer.website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
   </a>
 </p>
